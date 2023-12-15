@@ -1,4 +1,16 @@
-# React + TypeScript + Vite
+# Store react Query
+
+Este repositorio es acerca del funcionamiento y aplicabilidad del gestor de estado asincrono tankstack-query, su contenido temático es autoria de Fernando Herrera, puesto que, es producto de un corto curso ofrecido por él.
+
+## Comandos
+
+- Ejecuta "yarn" en la raiz del proyecto en cuanto lo clones 
+- Ejecuta "yarn dev" para levantar la aplicación en entorno de desarrollo
+- Ejecuta el comando "yarn build" para crear la aplicación de producción
+
+
+
+## Intruccions about react +vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
